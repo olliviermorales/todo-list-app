@@ -1,4 +1,4 @@
-Link for todo app: https://github.com/olliviermorales/todo-list-app.git
+Link for todo app: https://todo-app-multisyscorp.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
